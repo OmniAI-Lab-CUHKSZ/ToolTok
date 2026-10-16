@@ -8,7 +8,7 @@
 
 ![main](./vis2.jpg)
 
-Paper: (Arxiv)[https://arxiv.org/abs/2602.02548]
+Paper: [Arxiv](https://arxiv.org/abs/2602.02548)
 
 ## Train
 
